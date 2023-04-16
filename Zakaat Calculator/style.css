@@ -1,0 +1,63 @@
+.body {
+    background-image: url("images/e73a52cf5dfeb4bfeb9979ba1487947c.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-left: 50px;
+}
+
+.main{
+    margin-top: 20px;
+    margin-left: 25%;
+    letter-spacing: normal;
+    background-color: none;
+    width: 50%;
+}
+.input{
+    margin-top: 50px;
+    margin-left: 60px;
+
+}
+
+#cash{
+    margin-bottom: 20px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#gold{
+    margin-bottom: 20px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+
+#silver{
+    margin-bottom: 10px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.btn{
+   border-radius: 5px blue; 
+}
+
+#button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    margin-top: 20px;
+    margin-left: 70px;
+    background-color: lightgrey;
+    border-radius: 5px solid;
+
+}
