@@ -27,7 +27,7 @@ h1 {
 }
 
 .input {
-    margin-top: 50px;
+    margin-top: 30px;
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
@@ -65,7 +65,14 @@ h1 {
 #button {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: x-large;
-    margin-top: 20px;
+    margin-top: 10px;
     background-color: whitesmoke;
     border-radius: 5px solid;
+}
+
+.name {
+    font-weight: 300;
+    font-style: italic;
+    margin-top: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
